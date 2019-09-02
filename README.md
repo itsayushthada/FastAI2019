@@ -1,6 +1,6 @@
 # FastAI2019
 
-All the task has been done with the FastAI and Pytorch module.
+All the tasks have been done with the FastAI and Pytorch module.
 
 | DataSet       | Accuracy  | Model Name  |     Task       |
 | ------------- |:---------:|------------:|---------------:|
