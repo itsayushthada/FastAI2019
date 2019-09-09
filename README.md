@@ -9,4 +9,4 @@ All the tasks have been done with the FastAI and Pytorch module.
 | Devanagari Handwritten Character Dataset| 99.1624% | ResNet18 | Classification |
 | Arabic Hand Written Dataset | NaN% | ResNet18 | Classification |
 
-These are not the final results. There is still lot of scope of improvement.
+These are not the final results. There is still scope of improvement.
